@@ -1,1 +1,2 @@
-worker python bootstrap.py
+worker: python bootstrap.py
+web: npm start
